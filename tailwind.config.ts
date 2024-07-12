@@ -74,13 +74,26 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       fontSize: {
-        "size-1": "70px"
+        "size-1": "70px",
+        "size-2": "64px",
+        "size-3": "19.2px",
+        "size-4": "20.57px",
       },
       backgroundColor: {
         "color-1":"#E7887B"
       },
       borderColor: { 
-        "color-1":"#E7887B"
+        "color-1":"#E7887B",
+        "color-2":"#8A8A8A",
+      },
+      textColor: {
+        "color-1": "#393939",
+        "color-2": "#8a8a8a",
+      },
+      lineHeight: {
+        "accent-1": "20.8px",
+        "accent-2": "27.2px",
+        "accent-3": "25.6px",
       }
     },
   },

@@ -19,7 +19,7 @@ const Header = () => {
             </li>
           ))}
         </ul>
-        <button className="font-semibold px-5 py-2 bg-color-1 rounded-accent-1 text-base hover:bg-transparent hover:border hover:border-color-1">
+        <button className="text-white font-semibold px-5 py-2 bg-color-1 rounded-accent-1 text-base hover:bg-transparent hover:border hover:border-color-1">
           Make an Appointment
         </button>
       </div>

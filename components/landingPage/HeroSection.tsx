@@ -44,7 +44,7 @@ const HeroSection = () => {
                 <Image alt={`carousel image ${i + 1}`} src={slide.url} fill />
                 <div className="absolute inset-0 bg-black opacity-30"></div>
               </motion.div>
-              <div className="absolute top-0 left-20 right-0 bottom-0 w-full h-full flex flex-col justify-center items-start gap-10">
+              <div className="absolute top-0 left-20 right-0 bottom-0 w-full h-full flex flex-col justify-center items-start gap-10 text-white">
                 <motion.div
                   initial={{ opacity: 0, x: 400 }}
                   whileInView={{ opacity: 1, x: 0 }}
